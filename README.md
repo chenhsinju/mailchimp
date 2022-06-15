@@ -1,7 +1,7 @@
 # mailchimp
 
 # [mailchimp] lists相關的restful api
-1-1. 可獲得list_id
+1-1. 可獲得list_id<br>
 @app.route('/lists', methods=['GET'])
 https://flask-mailchimp.herokuapp.com/lists
 
