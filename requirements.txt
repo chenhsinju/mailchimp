@@ -1,0 +1,4 @@
+Flask
+gunicorn
+mailchimp_marketing
+ApiClientError
